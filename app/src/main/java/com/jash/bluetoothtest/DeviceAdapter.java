@@ -18,10 +18,7 @@ public class DeviceAdapter extends RecyclerView.Adapter<DeviceAdapter.ViewHolder
     //啦啦啦
     //啦啦啦
     //啦啦啦
-    //啦啦啦
-    //啦啦啦
-    //啦啦啦
-    //啦啦啦
+
     private List<BluetoothDevice> list;
     private View.OnClickListener listener;
 
