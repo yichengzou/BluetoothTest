@@ -15,6 +15,13 @@ import java.util.List;
 public class DeviceAdapter extends RecyclerView.Adapter<DeviceAdapter.ViewHolder> {
     private Context context;
     //啦啦啦
+    //啦啦啦
+    //啦啦啦
+    //啦啦啦
+    //啦啦啦
+    //啦啦啦
+    //啦啦啦
+    //啦啦啦
     private List<BluetoothDevice> list;
     private View.OnClickListener listener;
 
